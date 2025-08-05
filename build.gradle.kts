@@ -13,8 +13,8 @@ publishing {
     publications {
         create<MavenPublication>("maven") {
             from(components["versionCatalog"])
-            groupId = "io.kibet.theo"
-            version = "0.1"
+            groupId = "io.insert-koin"
+            version = "4.1.0"
         }
     }
 }
