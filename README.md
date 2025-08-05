@@ -1,4 +1,4 @@
-# version-catalog
+# koin-version-catalog
 
 A [VersionCatalog](https://docs.gradle.org/current/userguide/version_catalogs.html) for the latest versions of **all** [Koin](https://github.com/InsertKoinIO/koin) dependencies
 
@@ -31,3 +31,6 @@ dependencies {
     implementation(koinLibs.ktor)
 }
 ```
+
+> [!IMPORTANT]
+> This project has not been published yet
