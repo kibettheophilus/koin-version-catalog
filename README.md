@@ -25,5 +25,9 @@ Use in your projects
 ```kotlin
 dependencies {
     implementation(koinLibs.core)
+    implementation(koinLibs.android)
+    implementation(koinLibs.test)
+    implementation(koinLibs.compose)
+    implementation(koinLibs.ktor)
 }
 ```
